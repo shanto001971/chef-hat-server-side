@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "picture": "https://thumbs.dreamstime.com/b/african-american-chef-attractive-female-arms-folded-restaurant-kitchen-32896735.jpg",
+      "name": "John Doe",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 1000
+    },
+    {
+      "id": 2,
+      "picture": "https://www.google.com/search?q=american+chef+img&rlz=1C1GCEA_enBD1039BD1039&sxsrf=APwXEdc5_Q2pe1yh5cfvMdnydoXoq6Ataw:1682963139082&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-wMyg1tT-AhVGtVYBHahUAhEQ_AUoAXoECAEQAw&biw=1440&bih=757&dpr=1#imgrc=VaofIZyuHsbJ4M",
+      "name": "Jane Smith",
+      "years_of_experience": 5,
+      "num_recipes": 20,
+      "likes": 500
+    },
+    {
+      "id": 3,
+      "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+      "name": "Bob Johnson",
+      "years_of_experience": 15,
+      "num_recipes": 75,
+      "likes": 1500
+    },
+    {
+      "id": 4,
+      "picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
+      "name": "Sarah Lee",
+      "years_of_experience": 8,
+      "num_recipes": 40,
+      "likes": 800
+    },
+    {
+      "id": 5,
+      "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Thomas-Keller-2.jpg",
+      "name": "Mark Rodriguez",
+      "years_of_experience": 12,
+      "num_recipes": 60,
+      "likes": 1200
+    },
+    {
+      "id": 6,
+      "picture": "https://149446486.v2.pressablecdn.com/wp-content/uploads/2021/01/thomas-keller-750x422.jpg",
+      "name": "Jessica Lee",
+      "years_of_experience": 6,
+      "num_recipes": 30,
+      "likes": 600
+    },
+    {
+      "id": 7,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WiXHV42YNbw3eIqXJ53-ejHj_9abDZ9M_g&usqp=CAU",
+      "name": "Michael Brown",
+      "years_of_experience": 9,
+      "num_recipes": 45,
+      "likes": 900
+    },
+    {
+      "id": 8,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_XQUg8vA0_6N6EFu6-nCKKBHkWDXTY911Q&usqp=CAU",
+      "name": "Samantha Davis",
+      "years_of_experience": 7,
+      "num_recipes": 35,
+      "likes": 700
+    },
+    {
+      "id": 9,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlynYw-jMGlScvLAUnO9YS4yabYeOp2r5A&usqp=CAU",
+      "name": "Kevin Nguyen",
+      "years_of_experience": 11,
+      "num_recipes": 55,
+      "likes": 1100
+    },
+    {
+      "id": 10,
+      "picture": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gx92jidpy2xwsm6s_1622719612.jpeg",
+      "name": "Linda Chen",
+      "years_of_experience": 14,
+      "num_recipes": 70,
+      "likes": 1400
+    }
+  ]
+  
