@@ -1,276 +1,522 @@
 [
-    {
-      "id": 1,
-      "picture": "https://thumbs.dreamstime.com/b/african-american-chef-attractive-female-arms-folded-restaurant-kitchen-32896735.jpg",
-      "name": "John Doe",
-      "years_of_experience": 10,
-      "num_recipes": 50,
-      "likes": 1000,
-      "bio": "John Doe is a self-taught chef who has been passionate about cooking since childhood. He grew up watching his grandmother and mother cook and learned the art of traditional home cooking from them. Over the years, he has developed his own unique style of cooking, which is a blend of traditional and modern techniques. He is known for his simple, yet flavorful dishes that highlight the natural flavors of the ingredients. Chef John is also a popular food blogger and YouTuber, where he shares his recipes and cooking tips with a global audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-
-    },
-    {
-      "id": 2,
-      "picture": "https://img.freepik.com/free-photo/pleased-young-afro-american-cook-chef-uniform-holds-knife-frying-pan-isolated-white-background-with-copy-space_141793-34485.jpg",
-      "name": "Jane Smith",
-      "years_of_experience": 5,
-      "num_recipes": 20,
-      "likes": 500,
-      "bio": "Jane Smith is a classically trained chef with over 5 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 3,
-      "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
-      "name": "Bob Johnson",
-      "years_of_experience": 15,
-      "num_recipes": 75,
-      "likes": 1500,
-      "bio": "Chef Maria is a renowned pastry chef with over 15 years of experience in the culinary industry. She has worked in some of the top pastry kitchens in the world and is known for her",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 4,
-      "picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
-      "name": "Sarah Lee",
-      "years_of_experience": 8,
-      "num_recipes": 40,
-      "likes": 800,
-      "bio": "Sarah Lee is a classically trained chef with over 8 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 5,
-      "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Thomas-Keller-2.jpg",
-      "name": "Mark Rodriguez",
-      "years_of_experience": 12,
-      "num_recipes": 60,
-      "likes": 1200,
-      "bio": "Mark Rodriguez is a classically trained chef with over 12 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 6,
-      "picture": "https://149446486.v2.pressablecdn.com/wp-content/uploads/2021/01/thomas-keller-750x422.jpg",
-      "name": "Jessica Lee",
-      "years_of_experience": 6,
-      "num_recipes": 30,
-      "likes": 600,
-      "bio": "Jessica Lee is a classically trained chef with over 6 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-
-    },
-    {
-      "id": 7,
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WiXHV42YNbw3eIqXJ53-ejHj_9abDZ9M_g&usqp=CAU",
-      "name": "Michael Brown",
-      "years_of_experience": 9,
-      "num_recipes": 45,
-      "likes": 900,
-      "bio": "Michael Brown is a classically trained chef with over 9 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 8,
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_XQUg8vA0_6N6EFu6-nCKKBHkWDXTY911Q&usqp=CAU",
-      "name": "Samantha Davis",
-      "years_of_experience": 7,
-      "num_recipes": 35,
-      "likes": 700,
-      "bio": "Samantha Davis is a classically trained chef with over 7 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 9,
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlynYw-jMGlScvLAUnO9YS4yabYeOp2r5A&usqp=CAU",
-      "name": "Kevin Nguyen",
-      "years_of_experience": 11,
-      "num_recipes": 55,
-      "likes": 1100,
-      "bio": "Kevin Nguyen is a classically trained chef with over 11 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-    },
-    {
-      "id": 10,
-      "picture": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gx92jidpy2xwsm6s_1622719612.jpeg",
-      "name": "Linda Chen",
-      "years_of_experience": 14,
-      "num_recipes": 70,
-      "likes": 1400,
-      "bio": "Linda Chen is a classically trained chef with over 14 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
-      "recipes": 
-        {
-          "name": "Classic Spaghetti Bolognese",
-          "ingredients": [
-            "Spaghetti",
-            "Ground beef",
-            "Tomatoes",
-            "Onion",
-            "Garlic",
-            "Salt",
-            "Pepper",
-            "Olive oil",
-            "Parmesan cheese"
-          ],
-          "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese.",
-          "rating": 4.5,
-          "favorite": false
-        }
-      
-    }
-  ]
-  
+  {
+    "id": 1,
+    "picture": "https://thumbs.dreamstime.com/b/african-american-chef-attractive-female-arms-folded-restaurant-kitchen-32896735.jpg",
+    "name": "John Doe",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 1000,
+    "bio": "John Doe is a self-taught chef who has been passionate about cooking since childhood. He grew up watching his grandmother and mother cook and learned the art of traditional home cooking from them. Over the years, he has developed his own unique style of cooking, which is a blend of traditional and modern techniques. He is known for his simple, yet flavorful dishes that highlight the natural flavors of the ingredients. Chef John is also a popular food blogger and YouTuber, where he shares his recipes and cooking tips with a global audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "picture": "https://img.freepik.com/free-photo/pleased-young-afro-american-cook-chef-uniform-holds-knife-frying-pan-isolated-white-background-with-copy-space_141793-34485.jpg",
+    "name": "Jane Smith",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": 500,
+    "bio": "Jane Smith is a classically trained chef with over 5 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
+    "name": "Bob Johnson",
+    "years_of_experience": 15,
+    "num_recipes": 75,
+    "likes": 1500,
+    "bio": "Chef Maria is a renowned pastry chef with over 15 years of experience in the culinary industry. She has worked in some of the top pastry kitchens in the world and is known for her",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
+    "name": "Sarah Lee",
+    "years_of_experience": 8,
+    "num_recipes": 40,
+    "likes": 800,
+    "bio": "Sarah Lee is a classically trained chef with over 8 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Thomas-Keller-2.jpg",
+    "name": "Mark Rodriguez",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": 1200,
+    "bio": "Mark Rodriguez is a classically trained chef with over 12 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "picture": "https://149446486.v2.pressablecdn.com/wp-content/uploads/2021/01/thomas-keller-750x422.jpg",
+    "name": "Jessica Lee",
+    "years_of_experience": 6,
+    "num_recipes": 30,
+    "likes": 600,
+    "bio": "Jessica Lee is a classically trained chef with over 6 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WiXHV42YNbw3eIqXJ53-ejHj_9abDZ9M_g&usqp=CAU",
+    "name": "Michael Brown",
+    "years_of_experience": 9,
+    "num_recipes": 45,
+    "likes": 900,
+    "bio": "Michael Brown is a classically trained chef with over 9 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_XQUg8vA0_6N6EFu6-nCKKBHkWDXTY911Q&usqp=CAU",
+    "name": "Samantha Davis",
+    "years_of_experience": 7,
+    "num_recipes": 35,
+    "likes": 700,
+    "bio": "Samantha Davis is a classically trained chef with over 7 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnlynYw-jMGlScvLAUnO9YS4yabYeOp2r5A&usqp=CAU",
+    "name": "Kevin Nguyen",
+    "years_of_experience": 11,
+    "num_recipes": 55,
+    "likes": 1100,
+    "bio": "Kevin Nguyen is a classically trained chef with over 11 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "picture": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gx92jidpy2xwsm6s_1622719612.jpeg",
+    "name": "Linda Chen",
+    "years_of_experience": 14,
+    "num_recipes": 70,
+    "likes": 1400,
+    "bio": "Linda Chen is a classically trained chef with over 14 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and is known for her innovative and creative approach to cooking. Her signature dishes are a fusion of traditional and modern flavors, and she is constantly experimenting with new techniques and ingredients. Chef Alice is passionate about teaching others how to cook and has authored several cookbooks and appeared on cooking shows to share her expertise with a wider audience.",
+    "recipes": [
+      {
+        "recipe_name": "Chicken Enchiladas",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Beef Tacos",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": ""
+      },
+      {
+        "recipe_name": "Guacamole",
+        "ingredients": ["Spaghetti",
+        "Ground beef",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Parmesan cheese"],
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. Heat olive oil in a pan over medium-high heat. Add onions and garlic and sauté until onions are translucent. \n3. Add ground beef and cook until browned. \n4. Add diced tomatoes, salt, and pepper. Simmer for 20 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with Parmesan cheese."
+      }
+    ],
+    "rating": 4.5,
+    "favorite": false
+  }
+]
