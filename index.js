@@ -6,7 +6,7 @@ const cors = require('cors');
 
 app.use(cors())
 
-app.get('/', (req, res) => {
+app.get('/data', (req, res) => {
     res.send(chefs)
 })
 app.get('/data/:id', (req, res) => {
